@@ -1,0 +1,14 @@
+.title{ background-color: rgb(228, 102, 19); color: white; 
+    padding: 10px; } 
+
+    .block1 { margin-top: 20px; margin-bottom: 20px;
+        font-family: 'Dancing Script', cursive;
+    } 
+
+    .block2 { margin-top: 20px; margin-bottom: 20px;
+
+} .block2 img{ width: 300px; border: 3px solid black; }
+*{
+    margin: 0;
+}
+
